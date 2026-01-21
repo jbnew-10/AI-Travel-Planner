@@ -1,4 +1,4 @@
-# AI Travel Planner Agent
+# AI Travel Planner Agent for Students
 
 Welcome to the **AI Travel Planner** — an intelligent assistant powered by **IBM WatsonX** to help users plan trips effortlessly.  
 The AI is strictly limited to **travel-related queries**. If asked about anything unrelated, it politely responds:  
